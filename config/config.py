@@ -2,7 +2,7 @@ import os
 
 URLS = {
     "dev": "https://dev.example.com",
-    "qa": "https://aim.qa.spdigital.sg/",
+    "qa": "https://www.saucedemo.com",
     "prod": "https://example.com"
 }
 
